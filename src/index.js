@@ -31,7 +31,7 @@ class App extends React.Component {
     }
 
     render() {
-        console.log('--- RENDER ---');
+        console.log('--- RENDER -----');
 
         return (
             <div>
